@@ -1,5 +1,5 @@
--- NAMA : IRZA APRIANDI
--- NIM : 23241034
+-- NAMA : M.Afrizal
+-- NIM : 23241008
 -- Kelas : A
 -- Modul : Modul 1 - SELECT Statment, Prefix dan Alias
 
