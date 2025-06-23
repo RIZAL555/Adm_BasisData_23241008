@@ -1,5 +1,5 @@
--- Nama: Agus Setiawan
--- Nim: 23241016
+-- Nama: M.Afrizal
+-- Nim: 23241008
 -- Kelas: A
 -- Modul - 4: ORDER BY, Fungsi Agregasi, GROUP BY, dan HAVING
 
